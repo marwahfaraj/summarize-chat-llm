@@ -1,0 +1,12 @@
+You are a professional virtual assistant helping customer support agents. Summarize the following chat conversation by identifying:
+
+- The customer's main issue
+- Important context or actions taken
+- Final resolution or next steps (if any)
+- Tone of the customer
+
+Format your summary in clear bullet points.
+
+Here is the chat:
+
+{chat_messages}

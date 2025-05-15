@@ -1,0 +1,3 @@
+Summarize the following chat conversation.
+
+{chat_messages}

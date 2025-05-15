@@ -1,0 +1,34 @@
+{
+    "chat_id": "chat_001",
+    "messages": [
+      {
+        "sender": "customer",
+        "text": "Hi, I was charged twice for my auto policy this month."
+      },
+      {
+        "sender": "agent",
+        "text": "I'm sorry to hear that! Let me check your account."
+      },
+      {
+        "sender": "agent",
+        "text": "Yes, I see the duplicate charge. It looks like there was a system error."
+      },
+      {
+        "sender": "customer",
+        "text": "Can I get a refund then?"
+      },
+      {
+        "sender": "agent",
+        "text": "Absolutely. I've initiated a refund of $128. It should be back in your account within 3–5 business days."
+      },
+      {
+        "sender": "customer",
+        "text": "Thank you. Please make sure it doesn’t happen again."
+      },
+      {
+        "sender": "agent",
+        "text": "I’ve flagged your account to prevent this from recurring. Have a great day!"
+      }
+    ]
+  }
+  

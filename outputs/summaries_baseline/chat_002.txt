@@ -1,0 +1,1 @@
+The customer was locked out of their account and couldn't reset the password. The agent sent a reset link, but it expired. A second link was sent, and the customer regained access. The issue was resolved.

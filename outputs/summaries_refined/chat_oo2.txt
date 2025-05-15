@@ -1,0 +1,4 @@
+- **Issue**: Customer was locked out and unable to reset their password.
+- **Agent Action**: Sent a reset link, replaced it when the first one expired.
+- **Resolution**: Customer regained access and confirmed success.
+- **Customer Tone**: Cooperative and appreciative after resolution.

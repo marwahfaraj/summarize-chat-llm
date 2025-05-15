@@ -1,0 +1,4 @@
+- **Issue**: Customer reported a double charge on their auto policy.
+- **Agent Action**: Verified the issue was due to a system error; initiated a $128 refund.
+- **Resolution**: Refund processed; agent flagged account to prevent recurrence.
+- **Customer Tone**: Frustrated at first but satisfied after resolution.
