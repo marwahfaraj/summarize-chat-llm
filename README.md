@@ -1,6 +1,6 @@
 # Summarizing Customer-Agent Chat History Using LLMs
 
-This project demonstrates how Large Language Models (LLMs), such as GPT-4, can be used to summarize multi-turn chat conversations between customers and support agents. This approach is inspired by a production use case implemented at GEICO.
+This project demonstrates how Large Language Models (LLMs), such as GPT-4, can be used to summarize multi-turn chat conversations between customers and support agents.
 
 ## 🧠 Problem Statement
 Customer-agent transcripts are often lengthy and hard to scan quickly. Support agents and analysts need a concise summary of the conversation, including:
